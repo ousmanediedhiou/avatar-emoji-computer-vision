@@ -33,9 +33,15 @@ python avatar_mediapipe.py
 
 > Les versions exactes des dépendances et le fonctionnement sur une autre machine n'ont pas été validés dans cette préparation du portfolio.
 
-## Démonstration vidéo
+## 🎬 Démonstration vidéo
 
-Une vidéo de démonstration sera ajoutée dans les [Releases](../../releases) après création du dépôt. Elle peut montrer le visage de l'auteur : sa publication est volontaire.
+Une démonstration du projet **Avatar Emoji** présente la détection des visages en temps réel et l'animation d'un avatar reproduisant les expressions faciales.
+
+La vidéo montre simultanément le flux de la webcam et l'avatar animé.
+
+**[▶ Voir la démonstration Avatar Emoji](https://github.com/ousmanediedhiou/avatar-emoji-computer-vision/releases/tag/v1.0.0)**
+
+**Technologies :** Python, OpenCV, MediaPipe, NumPy et DNN.
 
 ## Contexte
 
